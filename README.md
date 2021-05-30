@@ -2,9 +2,9 @@
 
 This role sets up a Linux server to be a NFS client.
 
-[![Ansible Role: NFS Client](https://img.shields.io/ansible/role/52314?style=flat-square)](https://galaxy.ansible.com/thorian93/ansible_role_nfs_client)
-[![Ansible Role: NFS Client](https://img.shields.io/ansible/quality/52314?style=flat-square)](https://galaxy.ansible.com/thorian93/ansible_role_nfs_client)
-[![Ansible Role: NFS Client](https://img.shields.io/ansible/role/d/52314?style=flat-square)](https://galaxy.ansible.com/thorian93/ansible_role_nfs_client)
+[![Ansible Role: NFS Client](https://img.shields.io/ansible/role/55152?style=flat-square)](https://galaxy.ansible.com/thorian93/nfs_client)
+[![Ansible Role: NFS Client](https://img.shields.io/ansible/quality/55152?style=flat-square)](https://galaxy.ansible.com/thorian93/nfs_client)
+[![Ansible Role: NFS Client](https://img.shields.io/ansible/role/d/55152?style=flat-square)](https://galaxy.ansible.com/thorian93/nfs_client)
 
 ## Requirements
 
